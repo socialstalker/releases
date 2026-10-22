@@ -1,4 +1,4 @@
-﻿# SocialStalker Extension Releases
+# SocialStalker Extension Releases
 
 Official release distribution, package binaries (.crx, .zip), and changelogs for the [SocialStalker](https://github.com/socialstalker) Chrome Extension.
 
@@ -10,6 +10,7 @@ SocialStalker is a Manifest V3 Chrome extension for unlocking full-size profile 
 
 | Version | Release Date | Direct Install (.crx) | Unpacked Archive (.zip) | Release Notes |
 |:---:|:---:|:---:|:---:|:---:|
+| **v2.1.2** | 2026-10-22 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v2.1.2/social-stalker-2.1.2.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v2.1.2/social-stalker-2.1.2.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v2.1.2) |
 | **v2.1.1** | 2026-10-22 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v2.1.1/social-stalker-2.1.1.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v2.1.1/social-stalker-2.1.1.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v2.1.1) |
 | **v2.1.0** | 2026-10-18 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v2.1.0/social-stalker-2.1.0.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v2.1.0/social-stalker-2.1.0.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v2.1.0) |
 | **v2.0.0** | 2026-08-23 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v2.0.0/social-stalker-2.0.0.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v2.0.0/social-stalker-2.0.0.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v2.0.0) |
