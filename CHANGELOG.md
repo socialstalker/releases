@@ -1,3 +1,9 @@
+## [2.3.0](https://github.com/socialstalker/extension/compare/v2.2.2...v2.3.0) (2026-10-23)
+
+### Features
+
+* **observability:** replace Sentry with self-hosted Grafana OTLP ([ca7d36c](https://github.com/socialstalker/extension/commit/ca7d36c7744acf333eb1d3b75dd3ba0c1d4178c7))
+
 ## [2.2.2](https://github.com/socialstalker/extension/compare/v2.2.0...v2.2.2) (2026-10-23)
 
 ### Bug Fixes
