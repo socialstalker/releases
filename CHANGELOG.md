@@ -1,10 +1,10 @@
-## [2.2.0](https://github.com/socialstalker/extension/compare/v2.1.3...v2.2.0) (2026-10-23)
+## [2.2.2](https://github.com/socialstalker/extension/compare/v2.2.0...v2.2.2) (2026-10-23)
 
 ### Bug Fixes
 
-* **instagram:** migrate user timeline and profile archive to FB-Relay GraphQL connection ([1139cd6](https://github.com/socialstalker/extension/commit/1139cd6ade2f82d941e8dcc137c5f0b2ff9fff99))
-* **instagram:** add dynamic Relay doc_id discovery from client JS bundles and intercept live query hints ([1139cd6](https://github.com/socialstalker/extension/commit/1139cd6ade2f82d941e8dcc137c5f0b2ff9fff99))
-* **instagram:** update required Relay provider variables and expand token extraction compatibility ([1139cd6](https://github.com/socialstalker/extension/commit/1139cd6ade2f82d941e8dcc137c5f0b2ff9fff99))
+* **instagram:** migrate user feed to GraphQL and bundle v2.2.1 offline changelog ([d8e6592](https://github.com/socialstalker/extension/commit/d8e65922f604ad88dbe2827f1c9b206b80934966))
+
+## [2.2.0](https://github.com/socialstalker/extension/compare/v2.1.3...v2.2.0) (2026-10-23)
 
 ## [2.1.3](https://github.com/socialstalker/extension/compare/v2.1.2...v2.1.3) (2026-10-22)
 
