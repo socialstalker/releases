@@ -1,3 +1,9 @@
+## [2.3.1](https://github.com/socialstalker/extension/compare/v2.3.0...v2.3.1) (2026-10-24)
+
+### Features
+
+* **observability:** correlate content-script logs and errors with active traces ([2b613fe](https://github.com/socialstalker/extension/commit/2b613fefb98773b62c6ed317473beb68185dc091))
+
 ## [2.3.0](https://github.com/socialstalker/extension/compare/v2.2.2...v2.3.0) (2026-10-23)
 
 ### Features
