@@ -1,3 +1,9 @@
+## [3.0.0](https://github.com/socialstalker/extension/compare/v2.3.1...v3.0.0) (2026-10-26)
+
+### Features
+
+* **twitter:** add profile media archive and single-tweet video downloaders ([c79c51c](https://github.com/socialstalker/extension/commit/c79c51cde371efe33f6349f3089780d5dd9217c4))
+
 ## [2.3.1](https://github.com/socialstalker/extension/compare/v2.3.0...v2.3.1) (2026-10-24)
 
 ### Features
