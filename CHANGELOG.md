@@ -2,6 +2,7 @@
 
 ### Features
 
+* **changelog:** bundle v3.0.0 offline changelog, add twitter scope, and guard release.yml ([059acb6](https://github.com/socialstalker/extension/commit/059acb637b9670ce893773bb3bfc3af92ce8a014))
 * **twitter:** add profile media archive and single-tweet video downloaders ([c79c51c](https://github.com/socialstalker/extension/commit/c79c51cde371efe33f6349f3089780d5dd9217c4))
 
 ## [2.3.1](https://github.com/socialstalker/extension/compare/v2.3.0...v2.3.1) (2026-10-24)
