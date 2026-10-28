@@ -1,3 +1,9 @@
+## [3.0.1](https://github.com/socialstalker/extension/compare/v3.0.0...v3.0.1) (2026-10-28)
+
+### Features
+
+* **facebook,telemetry:** enrich Facebook target and viewer account metadata and photo modal resolution ([e5aa051](https://github.com/socialstalker/extension/commit/e5aa0513978c9113693307a1c0badba2858bc02d))
+
 ## [3.0.0](https://github.com/socialstalker/extension/compare/v2.3.1...v3.0.0) (2026-10-26)
 
 ### Features
