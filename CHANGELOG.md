@@ -1,3 +1,9 @@
+## [3.1.0](https://github.com/socialstalker/extension/compare/v3.0.2...v3.1.0) (2026-10-28)
+
+### Features
+
+* **facebook:** add profile and Page photos zip archive via Comet Relay pagination ([331845b](https://github.com/socialstalker/extension/commit/331845bf10d971af8ad292c5950a63c9f7189c9d))
+
 ## [3.0.2](https://github.com/socialstalker/extension/compare/v3.0.1...v3.0.2) (2026-10-28)
 
 ## [3.0.1](https://github.com/socialstalker/extension/compare/v3.0.0...v3.0.1) (2026-10-28)
