@@ -2,7 +2,7 @@
 
 Official release distribution, package binaries (.crx, .zip), and changelogs for the [SocialStalker](https://github.com/socialstalker) Chrome Extension.
 
-SocialStalker is a Manifest V3 Chrome extension for unlocking full-size profile pictures, downloading stories, posts, and reels, and blocking seen receipts on Instagram and Facebook.
+SocialStalker is a Manifest V3 Chrome extension for unlocking full-size profile pictures, downloading stories, posts, reels, tweet videos, and profile photo/media archives, and blocking seen receipts on Instagram, Facebook, and Twitter / X.
 
 ---
 
@@ -10,6 +10,10 @@ SocialStalker is a Manifest V3 Chrome extension for unlocking full-size profile 
 
 | Version | Release Date | Direct Install (.crx) | Unpacked Archive (.zip) | Release Notes |
 |:---:|:---:|:---:|:---:|:---:|
+| **v3.1.0** | 2026-10-28 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v3.1.0/social-stalker-3.1.0.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v3.1.0/social-stalker-3.1.0.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v3.1.0) |
+| **v3.0.2** | 2026-10-28 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v3.0.2/social-stalker-3.0.2.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v3.0.2/social-stalker-3.0.2.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v3.0.2) |
+| **v3.0.1** | 2026-10-28 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v3.0.1/social-stalker-3.0.1.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v3.0.1/social-stalker-3.0.1.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v3.0.1) |
+| **v3.0.0** | 2026-10-26 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v3.0.0/social-stalker-3.0.0.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v3.0.0/social-stalker-3.0.0.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v3.0.0) |
 | **v2.3.1** | 2026-10-24 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v2.3.1/social-stalker-2.3.1.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v2.3.1/social-stalker-2.3.1.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v2.3.1) |
 | **v2.3.0** | 2026-10-23 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v2.3.0/social-stalker-2.3.0.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v2.3.0/social-stalker-2.3.0.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v2.3.0) |
 | **v2.2.2** | 2026-10-23 | [Download .crx](https://github.com/socialstalker/releases/releases/download/v2.2.2/social-stalker-2.2.2.crx) | [Download .zip](https://github.com/socialstalker/releases/releases/download/v2.2.2/social-stalker-2.2.2.zip) | [Notes](https://github.com/socialstalker/releases/releases/tag/v2.2.2) |
