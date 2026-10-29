@@ -1,3 +1,9 @@
+## [3.1.2](https://github.com/socialstalker/extension/compare/v3.1.1...v3.1.2) (2026-10-29)
+
+### Bug Fixes
+
+* **facebook:** keep partial photo pagination, flag incomplete archives, harden owner merge ([0798290](https://github.com/socialstalker/extension/commit/0798290568a22a0fb31e47c3f50e3e54d8e42be7))
+
 ## [3.1.1](https://github.com/socialstalker/extension/compare/v3.1.0...v3.1.1) (2026-10-29)
 
 ### Bug Fixes
