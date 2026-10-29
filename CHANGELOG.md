@@ -1,3 +1,9 @@
+## [3.1.1](https://github.com/socialstalker/extension/compare/v3.1.0...v3.1.1) (2026-10-29)
+
+### Bug Fixes
+
+* **facebook:** add modern Comet doc_ids, pfbid collection support, and CLAUDE.md entrypoint ([e9c8c24](https://github.com/socialstalker/extension/commit/e9c8c2466498f918c681db09d877a8936c23d444))
+
 ## [3.1.0](https://github.com/socialstalker/extension/compare/v3.0.2...v3.1.0) (2026-10-28)
 
 ### Features
