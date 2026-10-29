@@ -1,3 +1,5 @@
+## [3.1.3](https://github.com/socialstalker/extension/compare/v3.1.2...v3.1.3) (2026-10-29)
+
 ## [3.1.2](https://github.com/socialstalker/extension/compare/v3.1.1...v3.1.2) (2026-10-29)
 
 ### Bug Fixes
