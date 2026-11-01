@@ -1,3 +1,9 @@
+## [3.2.0](https://github.com/socialstalker/extension/compare/v3.1.3...v3.2.0) (2026-11-01)
+
+### Features
+
+* **telemetry:** migrate ingest endpoint to ss-tel.nasr.work and clean retired host permissions ([f314416](https://github.com/socialstalker/extension/commit/f314416cebf99d4553a0816364f102ab1c60a258))
+
 ## [3.1.3](https://github.com/socialstalker/extension/compare/v3.1.2...v3.1.3) (2026-10-29)
 
 ## [3.1.2](https://github.com/socialstalker/extension/compare/v3.1.1...v3.1.2) (2026-10-29)
