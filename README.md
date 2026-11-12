@@ -1,4 +1,7 @@
-# SocialStalker Extension Releases
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.svg">
+  <img alt="releases — socialstalker by gitnasr" src=".github/banner-light.svg" width="100%">
+</picture>
 
 Official release distribution, package binaries (.crx, .zip), and changelogs for the [SocialStalker](https://github.com/socialstalker) Chrome Extension.
 
